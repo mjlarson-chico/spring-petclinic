@@ -112,7 +112,7 @@ File -> Import -> Maven -> Existing Maven project
 
 <table>
   <tr>
-    <th width="300px">'Service' and 'Repository' layers</th><th width="300px">Files</th>
+    <th width="300px">'Service' and  'Repository' layers</th><th width="300px">Files</th>
   </tr>
   <tr>
     <td>Transactions</td>
